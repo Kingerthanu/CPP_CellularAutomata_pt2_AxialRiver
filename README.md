@@ -7,5 +7,6 @@
 ![trimmed-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/9668057b-d5e3-430d-ba08-994e855125bb)
 
 **Filling Bin Pattern:**
+
 ![2024-01-1817-44-18-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/2d10834f-9ec3-4bf4-b50b-b609c20bd698)
 
