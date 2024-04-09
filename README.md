@@ -6,6 +6,25 @@
   I will be only uploading the .cpp and .h files used and not frameworks as that can be found in https://github.com/Kingerthanu/CPP_CellularAutomata_stage1.
   This quick little gizmo has taught me a lot about unique ways of drawing meshes without just triangles like GL_TRIANGLE_FAN. It also made me realize how I can optimize buffer handles in order to not need to use "cost benefits" like GL_TRIANGLE_FAN if I internionally add indexes and vertices in a methodical way.
 
+----------------------------------------------
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/892d7fb4-c8e9-4d49-995a-8bdd83132522" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/892d7fb4-c8e9-4d49-995a-8bdd83132522" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/892d7fb4-c8e9-4d49-995a-8bdd83132522" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/892d7fb4-c8e9-4d49-995a-8bdd83132522" alt="Cornstarch <3" width="55" height="49">
+
+**The Breakdown:**
+
+  ------
+
+<img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/913baa51-e274-4aea-ba32-10b8dab0e78f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/913baa51-e274-4aea-ba32-10b8dab0e78f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/913baa51-e274-4aea-ba32-10b8dab0e78f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/913baa51-e274-4aea-ba32-10b8dab0e78f" alt="Cornstarch <3" width="55" height="49">
+
+
+----------------------------------------------
+
+<img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/bc289d3f-ca9f-4372-a386-925798d5536e" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/bc289d3f-ca9f-4372-a386-925798d5536e" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/bc289d3f-ca9f-4372-a386-925798d5536e" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/bc289d3f-ca9f-4372-a386-925798d5536e" alt="Cornstarch <3" width="55" height="49">
+
+
+
+**Features:**
+
+
 **Marching Cells and swap cycle:**
 
 ![trimmed-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/9668057b-d5e3-430d-ba08-994e855125bb)
