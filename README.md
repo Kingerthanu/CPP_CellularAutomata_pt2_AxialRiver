@@ -13,7 +13,15 @@
 
   This C++ Program Works With GLSL And OpenGL In Order To Make A Drawable Hexagonally-Formatted Window To Simulate Conways Game Of Life.
 
-  This Program Starts By Dividing Our Screen Int
+  This Program Starts By Dividing Our Screen Space Into Equally Sized Hexagons Specified By The User In A Constant Global Variable In Which Will Represent A Given Cell For Our Game Of Life. All Our Cells Will Be Loaded Into A 2D Array In Which Will Hold Our Current World Map We Are Working With Which Will Help In Simulating The Game Of Life As We Need Neighbors Of Given Cells For Proper Functionality.
+
+  Our Hexagons Of Our Screen Will Be All Loaded Into A Single Buffer, So Instead Of Each Hexagon Holding Its Direct Vertexes, We Will Hold Our Offset In Our Windows Hexagon Buffer And Read Only Four Of These Vertexes As These Should Be Our Associated Cells Vertexes So We Can Swap Its Color/State Without Direct References On Where TO Access.
+
+  Each Cell Instance Will Hold Its Alive State As Well And This Will Be Used In Its Main Loop Called React Function In Which Will Look Around Itself In A Given, Passed 2D Cell Map And Based Upon Its Alive Cell Neighbors Will React Accordingly. In This Iteration, The Current React Function Works With Sine Waves Of Our Given Time Stamp Of The React Check To Check:
+  &nbsp;- If We Are Dead and Based Upon A Probability Of 0.5%, If We Have Less Than Or Equal To 2 Amount Of Alive Neighbors Turn On. 
+  &nbsp;- Else, Die
+
+  While This Isn't That Visuaully Nuanced, This Project Helped Me Initially Prod Into The Cellular Automata Concept And See Exactly How We Can Simulate Behaivor From These Simple Two States. This Project Also Greatly Helped Me With Buffer Management/Understanding.
 
 <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49">
 
