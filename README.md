@@ -11,7 +11,9 @@
 
 **The Breakdown:**
 
-  ------
+  This C++ Program Works With GLSL And OpenGL In Order To Make A Drawable Hexagonally-Formatted Window.
+
+  This Program Starts By Dividing Our Screen Int
 
 <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49">
 
