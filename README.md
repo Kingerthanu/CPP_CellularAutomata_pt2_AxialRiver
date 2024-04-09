@@ -11,7 +11,7 @@
 
 **The Breakdown:**
 
-  This C++ Program Works With GLSL And OpenGL In Order To Make A Drawable Hexagonally-Formatted Window.
+  This C++ Program Works With GLSL And OpenGL In Order To Make A Drawable Hexagonally-Formatted Window To Simulate Conways Game Of Life.
 
   This Program Starts By Dividing Our Screen Int
 
