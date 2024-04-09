@@ -18,7 +18,9 @@
   Our Hexagons Of Our Screen Will Be All Loaded Into A Single Buffer, So Instead Of Each Hexagon Holding Its Direct Vertexes, We Will Hold Our Offset In Our Windows Hexagon Buffer And Read Only Four Of These Vertexes As These Should Be Our Associated Cells Vertexes So We Can Swap Its Color/State Without Direct References On Where TO Access.
 
   Each Cell Instance Will Hold Its Alive State As Well And This Will Be Used In Its Main Loop Called React Function In Which Will Look Around Itself In A Given, Passed 2D Cell Map And Based Upon Its Alive Cell Neighbors Will React Accordingly. In This Iteration, The Current React Function Works With Sine Waves Of Our Given Time Stamp Of The React Check To Check:
+  
   &nbsp;- If We Are Dead and Based Upon A Probability Of 0.5%, If We Have Less Than Or Equal To 2 Amount Of Alive Neighbors Turn On. 
+  
   &nbsp;- Else, Die
 
   While This Isn't That Visuaully Nuanced, This Project Helped Me Initially Prod Into The Cellular Automata Concept And See Exactly How We Can Simulate Behaivor From These Simple Two States. This Project Also Greatly Helped Me With Buffer Management/Understanding.
