@@ -18,7 +18,7 @@
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/57f55e0a-6453-4424-b0a8-c55160963205" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/57f55e0a-6453-4424-b0a8-c55160963205" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/57f55e0a-6453-4424-b0a8-c55160963205" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/57f55e0a-6453-4424-b0a8-c55160963205" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/b5f2dc20-865c-4fcf-a51c-ee5062e6b484" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/b5f2dc20-865c-4fcf-a51c-ee5062e6b484" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/b5f2dc20-865c-4fcf-a51c-ee5062e6b484" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/b5f2dc20-865c-4fcf-a51c-ee5062e6b484" alt="Cornstarch <3" width="55" height="49">
 
 
 
@@ -33,3 +33,4 @@
 
 ![2024-01-1817-44-18-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/2d10834f-9ec3-4bf4-b50b-b609c20bd698)
 
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/57f55e0a-6453-4424-b0a8-c55160963205" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/57f55e0a-6453-4424-b0a8-c55160963205" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/57f55e0a-6453-4424-b0a8-c55160963205" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/57f55e0a-6453-4424-b0a8-c55160963205" alt="Cornstarch <3" width="55" height="49">
