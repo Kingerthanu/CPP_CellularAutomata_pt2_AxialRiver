@@ -23,7 +23,8 @@
   
   &nbsp;- Else, Die
 
-  While This Isn't That Visuaully Nuanced, This Project Helped Me Initially Prod Into The Cellular Automata Concept And See Exactly How We Can Simulate Behaivor From These Simple Two States. This Project Also Greatly Helped Me With Buffer Management/Understanding.
+  While This Isn't That Visuaully Nuanced, This Project Helped Me Initially Prod Into The Cellular Automata Concept And See Exactly How We Can Simulate Behaivor From These Simple Two States. This Project Also Greatly Helped Me With Buffer Management/Understanding. 
+Also While Reviewing Can See This Behaivor Stems From Compounding Reactions Of Cells.
 
 <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_AxialRiver/assets/76754592/fe802363-9cce-4df8-80ea-d4f0c7140293" alt="Cornstarch <3" width="55" height="49">
 
