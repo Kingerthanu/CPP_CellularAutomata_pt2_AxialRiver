@@ -19,7 +19,7 @@
 
   Each Cell Instance Will Hold Its Alive State As Well And This Will Be Used In Its Main Loop Called React Function In Which Will Look Around Itself In A Given, Passed 2D Cell Map And Based Upon Its Alive Cell Neighbors Will React Accordingly. In This Iteration, The Current React Function Works With Sine Waves Of Our Given Time Stamp Of The React Check To Check:
   
-  &nbsp;- If We Are Dead and Based Upon A Probability Of 0.5%, If We Have Less Than Or Equal To 2 Amount Of Alive Neighbors Turn On. 
+  &nbsp;- If We Are Dead and Based Upon A Probability Of 0.5%, If We Have Less Than Or Equal To 2 Amount Of Alive Neighbors Turn On
   
   &nbsp;- Else, Die
 
